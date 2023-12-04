@@ -48,4 +48,13 @@
         tools:layout_editor_absoluteY="310dp"
         tools:ignore="MissingConstraints" />
 
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sing Up"
+        tools:layout_editor_absoluteX="127dp"
+        tools:layout_editor_absoluteY="370dp"
+        tools:ignore="MissingConstraints" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
