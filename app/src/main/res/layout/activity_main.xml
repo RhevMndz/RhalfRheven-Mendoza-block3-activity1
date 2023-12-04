@@ -35,8 +35,17 @@
         android:ems="10"
         android:hint="password"
         android:inputType="numberPassword"
+        tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="78dp"
-        tools:layout_editor_absoluteY="228dp"
+        tools:layout_editor_absoluteY="244dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        tools:layout_editor_absoluteX="133dp"
+        tools:layout_editor_absoluteY="310dp"
         tools:ignore="MissingConstraints" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
